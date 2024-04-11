@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0OMnrOoOMNAfYgop46zGJreQHnzqQuE6MNLsCDnLCzSmsFRjRTuVED2k+5igcrElLBgxyOXlVdJF4X1bcP2TTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\al0psy\\source\\repos\\adatkotes\\adatkotes\\adatkotes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\al0psy\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
